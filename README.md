@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cndoit18" alt="cndoit18" /></a> </p>
 
-- 🔭 I’m currently working on **kubernetes/container/cloudNative**
+- 🔭 I’m currently working on **kubernetes**/**container**/**cloud native**
 
 - 🌱 I’m currently learning **flutter**
 
