@@ -15,3 +15,5 @@ Hi, 我是cndoit18, 是一名后端开发工程师。
 
 
 ![cndoit18's GitHub stats](https://github-readme-stats.vercel.app/api?username=cndoit18&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=cndoit18&theme=radical)](https://github.com/cndoit18)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cndoit18&theme=radical)
