@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **kubernetes**/**container**/**cloud native**
 
-- 🌱 I’m currently learning **English** and **flutter**
+- 🌱 I’m currently learning **English** and **Kubernetes**
 
 - 💬 Ask me about **[here](https://github.com/cndoit18/cndoit18/issues)**
 
