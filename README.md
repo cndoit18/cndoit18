@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cndoit18" alt="cndoit18" /></a> </p>
 
+> I'm learning English, so maybe some of the comments seem rude, but I don't mean that, it's just that my English is so bad
+
 - 🔭 I’m currently working on **kubernetes**/**container**/**cloud native**
 
 - 🌱 I’m currently learning **English** and **Kubernetes**
