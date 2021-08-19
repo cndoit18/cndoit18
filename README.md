@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm cndoit18</h1>
 <h3 align="center">A back-end development engineer from China</h3>
 
-![Metrics](https://metrics.lecoq.io/cndoit18?template=classic&config.timezone=Asia%2FShanghai&config.twemoji=true&config.display=columns)
+![Metrics](https://metrics.lecoq.io/cndoit18?template=classic&repositories=100&notable=1&notable.repositories=false&config.timezone=Asia%2FShanghai)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cndoit18" alt="cndoit18" /></a> </p>
 
