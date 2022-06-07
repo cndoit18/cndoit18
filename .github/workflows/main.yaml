@@ -30,5 +30,3 @@ jobs:
           plugin_notable: yes
           plugin_notable_filter: stars:>0
           plugin_notable_repositories: no
-          plugin_followup: yes
-          plugin_followup_indepth: yes
